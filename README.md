@@ -1,1 +1,1 @@
-# Webmail-less-Mailing-IITK-Flix
+# Webmail-less-Mailing-and-IITK-Flix
