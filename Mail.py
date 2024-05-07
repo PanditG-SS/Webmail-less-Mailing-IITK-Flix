@@ -8,8 +8,8 @@ smtp_server = 'mmtp.iitk.ac.in'
 smtp_port = 25
 
 # Your email credentials
-sender_email = 'shobhits21@iitk.ac.in'
-password = 'Shobhit123@'
+sender_email = 'Enter your IITK id here'
+password = 'Enter you password here'
 
 # Recipient email addresses
 recipient_email = 'shobhits21@iitk.ac.in'
